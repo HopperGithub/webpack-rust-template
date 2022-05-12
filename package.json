@@ -1,0 +1,14 @@
+{
+  "author": "HopperLi <Hopper1820@gmail.com>",
+  "name": "create-webpack-rust-template",
+  "version": "0.1.0",
+  "repository": "https://github.com/HopperGithub/webpack-rust-template.git",
+  "license": "MIT",
+  "bin": {
+    "create-webpack-rust-template": ".bin/create-tpl.js"
+  },
+  "dependencies": {
+    "cpr": "^3.0.1",
+    "rimraf": "^3.0.0"
+  }
+}
