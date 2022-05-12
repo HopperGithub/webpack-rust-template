@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><code>install-webpack-rust-template</code></h1>
+  <h1><code>webpack-rust-template</code></h1>
 
   <strong>Kickstart your Rust, WebAssembly and Webpack project!</strong>
 
